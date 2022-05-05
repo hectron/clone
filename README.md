@@ -6,13 +6,15 @@ full url of the repository, and you don't need to type `git`.
 ## Usage
 
 ```zsh
+# Before (boring!)
+
 git clone git@github.com:hectron/notes.git
 
-# or the equivalent
+# the following is the equivalent
 
 clone hectron/notes
 
-# if the CLI was compiled with the default owner as "hectron"
+# or if the CLI was compiled with the default owner as "hectron"
 
 clone notes
 ```
